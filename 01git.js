@@ -6,3 +6,4 @@ for (let i = 1; i < arr.length; i++) {
     max = arr[i];
   }
 }
+console.log();
